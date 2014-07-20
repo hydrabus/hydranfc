@@ -6,3 +6,4 @@ It has been designed to be used with HydraBus but can also be used with other MC
 
 Will include open source code firmware(For HydraBus) and HydraNFC schematics.
 
+For more details on the hardware and where to buy it see http://hydrabus.com/?page_id=30
