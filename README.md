@@ -1,4 +1,4 @@
-hydranfc
+HydraNFC Shield and HydraNFC Antenna
 ========
 
 HydraNFC hardware shield
