@@ -10,6 +10,6 @@ It has been designed to be used with HydraBus see https://github.com/bvernoux/hy
 Tutorial to use HydraNFC and understand how work the NFC chipset (TRF7970A) with BusPirate or any other hardware with SPI:
 http://bvernoux.blogspot.fr/2012/01/nfc-ti-trf7970a-breakout-board-v10-for.html
 
-Will include open source code firmware(For HydraBus) and HydraNFC schematics.
+Open source code firmware(For HydraBus), will be released soon.
 
 For more details on the hardware and where to buy it see http://hydrabus.com/?page_id=30
