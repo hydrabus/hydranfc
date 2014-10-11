@@ -12,6 +12,8 @@ You can Buy HydraBus/HydraNFC Online in Seeed Studio Online Shop: http://www.see
 Open source code firmware(For HydraBus), is available see
 https://github.com/bvernoux/hydrafw
 
+Wiki for HydraFW: https://github.com/bvernoux/hydrafw/wiki
+
 Tutorial to use HydraNFC and understand how work the NFC chipset (TRF7970A) with BusPirate or any other hardware with SPI:
 http://bvernoux.blogspot.fr/2012/01/nfc-ti-trf7970a-breakout-board-v10-for.html
 
