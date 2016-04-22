@@ -5,8 +5,7 @@ This directory contains HydraNFC shield Schematic and Board for CadSoft Eagle 6.
 
 HydraNFC shield: Hardware licence CC BY NC (for commercial licence contact info@hydrabus.com)
 
-You can buy online HydraNFC at Seeed Studio shop:
-http://www.seeedstudio.com/depot/HydraNFC-Shield-and-HydraNFC-Antenna-p-1974.html
+You can buy online HydraNFC: http://hydrabus.com/buy-online
 
 For more details on the hardware see also http://hydrabus.com/?page_id=30
 
