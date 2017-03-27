@@ -6,9 +6,7 @@ Schematic, Board for CadSoft Eagle 6.x (free version works too)
 Documentations HydraNFC TRF7970A chipset Modes & Pin Out.
 
 Licenses:
-
-    HydraNFC_1_1_Rev1: Hardware licence CC BY NC (for commercial licence contact info@hydrabus.com)
-    HydraNFC_Antenna_1_0_Rev0 : Hardware licence CC BY NC (for commercial licence contact info@hydrabus.com)
+* HydraNFC_1_1_Rev1 and HydraNFC_Antenna_1_0_Rev0: Hardware license [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (for commercial license contact info@hydrabus.com)
 
 You can buy online HydraBus/HydraNFC: http://hydrabus.com/buy-online
 
