@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="7.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -2637,20 +2637,20 @@ Source: RS Component / BUORNS</description>
 <attribute name="OPL" value="0100410P1"/>
 </part>
 <part name="VUSB1" library="dp_devices" deviceset="SUPPLY_VUSB" device=""/>
-<part name="C7" library="OPL" deviceset="C*" device="-0603" value="0.01uF">
+<part name="C7" library="OPL" deviceset="C*" device="-0603" value="100nF">
 <attribute name="OPL" value="0100020P1"/>
 </part>
 <part name="+3V1" library="supply1" deviceset="+3V3" device=""/>
-<part name="C3" library="OPL" deviceset="C*" device="-0603" value="0.01uF">
+<part name="C3" library="OPL" deviceset="C*" device="-0603" value="100nF">
 <attribute name="OPL" value="0100020P1"/>
 </part>
-<part name="C5" library="OPL" deviceset="C*" device="-0603" value="0.01uF">
+<part name="C5" library="OPL" deviceset="C*" device="-0603" value="100nF">
 <attribute name="OPL" value="0100020P1"/>
 </part>
-<part name="C9" library="OPL" deviceset="C*" device="-0603" value="0.01uF">
+<part name="C9" library="OPL" deviceset="C*" device="-0603" value="100nF">
 <attribute name="OPL" value="0100020P1"/>
 </part>
-<part name="C11" library="OPL" deviceset="C*" device="-0603" value="0.01uF">
+<part name="C11" library="OPL" deviceset="C*" device="-0603" value="100nF">
 <attribute name="OPL" value="0100020P1"/>
 </part>
 <part name="C22" library="OPL" deviceset="C*" device="-0603" value="27pF">
