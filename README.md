@@ -19,7 +19,9 @@ Tutorial with HydraBus + HydraNFC  (using HydraFW v0.5 beta):
 * Initialize & read ISO15693/Vicinity Tag
 * Initialize & read ISO14443A/Mifare Tag
 * Use TRF7970A commands (SLOS743K – August 2011 – revised April 2014)
-* For more details see https://github.com/hydrabus/hydrafw/wiki/HydraFW-HydraNFC-TRF7970A-Tutorial
+* For more details see 
+https://github.com/hydrabus/hydrafw/wiki/HydraFW-HydraNFC-v1-guide
+https://github.com/hydrabus/hydrafw/wiki/HydraFW-HydraNFC-v1.x-TRF7970A-Tutorial
 
 Tutorial to use HydraNFC and understand how work the NFC chipset (TRF7970A) with BusPirate or any other hardware with SPI:
 * See http://bvernoux.blogspot.fr/2012/01/nfc-ti-trf7970a-breakout-board-v10-for.html
