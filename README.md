@@ -1,7 +1,7 @@
-HydraNFC Shield and HydraNFC Antenna
+HydraNFC Shield v1 and HydraNFC Antenna
 ========
 
-HydraNFC hardware shield
+HydraNFC hardware shield v1
 ![HydraNFC shield](HydraNFC_board.jpg)
 
 The HydraNFC is an NFC shield hardware to sniff, read/write or emulate any 13.56MHz NFC tags for anyone interested in debugging/hacking/developing for NFC.
